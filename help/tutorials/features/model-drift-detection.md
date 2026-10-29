@@ -41,6 +41,6 @@ ht-degree: 0%
 
 >[!ENDSHADEBOX]
 
-Con la función de detección de deriva del modelo de Marketing Campaign Analytics, los cambios en el rendimiento del modelo se detectan automáticamente y se notifica a los usuarios. Pueden realizar acciones inmediatas para devolver el modelo a un rendimiento óptimo. Para obtener más información, consulte [Deriva de modelo](https://experienceleague.adobe.com/en/docs/mix-modeler/using/models/insights#model-drift){target="_blank"} en la documentación de Marketing Campaign Analytics.
+Con la función de detección de deriva del modelo de Marketing Campaign Analytics, los cambios en el rendimiento del modelo se detectan automáticamente y se notifica a los usuarios. Pueden realizar acciones inmediatas para devolver el modelo a un rendimiento óptimo. Para obtener más información, consulte [Deriva de modelo](https://experienceleague.adobe.com/es/docs/mix-modeler/using/models/insights#model-drift){target="_blank"} en la documentación de Marketing Campaign Analytics.
 
 >[!SLIDE](model-drift-detection)

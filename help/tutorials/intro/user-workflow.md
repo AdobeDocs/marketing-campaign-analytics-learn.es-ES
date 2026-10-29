@@ -47,6 +47,6 @@ ht-degree: 0%
 
 >[!ENDSHADEBOX]
 
-Conozca el flujo de trabajo de Marketing Campaign Analytics. Para obtener más información, consulte la [documentación del flujo de trabajo de Marketing Campaign Analytics](https://experienceleague.adobe.com/en/docs/mix-modeler/using/get-started/workflow).
+Conozca el flujo de trabajo de Marketing Campaign Analytics. Para obtener más información, consulte la [documentación del flujo de trabajo de Marketing Campaign Analytics](https://experienceleague.adobe.com/es/docs/mix-modeler/using/get-started/workflow).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424854?learn=on&enablevpops)
