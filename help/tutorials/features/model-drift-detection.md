@@ -28,19 +28,19 @@ level_v2:
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 9204bd8bbe86d179f4059b292de137b34933b6db
+source-git-commit: d48aefc7040e9ad22f86c87326bceddc09113e67
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '100'
 ht-degree: 0%
 ---
 # Detección de deriva del modelo
 
 >[!BEGINSHADEBOX]
 
-**Adobe Marketing Campaign Analytics** es la evolución y el cambio de marca de **Adobe Marketing Campaign Analytics**. Es posible que parte del contenido de Experience League siga haciendo referencia a Mix Modeler en lugar de a Marketing Campaign Analytics.
+**Adobe Marketing Campaign Analytics** es la evolución y el cambio de marca de **Adobe Mix Modeler**. Es posible que parte del contenido de Experience League siga haciendo referencia a Mix Modeler en lugar de a Marketing Campaign Analytics.
 
 >[!ENDSHADEBOX]
 
-Con la función de detección de deriva del modelo de Marketing Campaign Analytics, los cambios en el rendimiento del modelo se detectan automáticamente y se notifica a los usuarios. Pueden realizar acciones inmediatas para devolver el modelo a un rendimiento óptimo. Para obtener más información, consulte [Deriva de modelo](https://experienceleague.adobe.com/es/docs/mix-modeler/using/models/insights#model-drift){target="_blank"} en la documentación de Marketing Campaign Analytics.
+Con la función de detección de deriva del modelo de Marketing Campaign Analytics, los cambios en el rendimiento del modelo se detectan automáticamente y se notifica a los usuarios. Pueden realizar acciones inmediatas para devolver el modelo a un rendimiento óptimo. Para obtener más información, consulte [Deriva de modelo](https://experienceleague.adobe.com/en/docs/mix-modeler/using/models/insights#model-drift){target="_blank"} en la documentación de Marketing Campaign Analytics.
 
 >[!SLIDE](model-drift-detection)

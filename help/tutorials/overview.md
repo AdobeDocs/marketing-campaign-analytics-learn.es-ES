@@ -16,16 +16,16 @@ topic_v2:
     internal-label: Insights
   - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
     internal-label: Machine learning
-source-git-commit: 9204bd8bbe86d179f4059b292de137b34933b6db
+source-git-commit: d48aefc7040e9ad22f86c87326bceddc09113e67
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '183'
 ht-degree: 1%
 ---
 # Tutoriales de Marketing Campaign Analytics
 
 >[!BEGINSHADEBOX]
 
-**Adobe Marketing Campaign Analytics** es la evolución y el cambio de marca de **Adobe Marketing Campaign Analytics**. Es posible que parte del contenido de Experience League siga haciendo referencia a Mix Modeler en lugar de a Marketing Campaign Analytics.
+**Adobe Marketing Campaign Analytics** es la evolución y el cambio de marca de **Adobe Mix Modeler**. Es posible que parte del contenido de Experience League siga haciendo referencia a Mix Modeler en lugar de a Marketing Campaign Analytics.
 
 >[!ENDSHADEBOX]
 
@@ -48,7 +48,7 @@ Adobe Marketing Campaign Analytics ayuda a las organizaciones a medir, optimizar
 <tr>
   <td>
     <a href="intro/demo.md">
-      <img alt="imagen en miniatura para el tutorial &quot;Demostración completa&quot;" src="https://video.tv.adobe.com/v/3440797?captions=spa&format=jpeg" />
+      <img alt="imagen en miniatura para el tutorial &quot;Demostración completa&quot;" src="https://video.tv.adobe.com/v/3440794?format=jpeg" />
     </a>
     <div>
       <a href="intro/demo.md">
@@ -61,7 +61,7 @@ Adobe Marketing Campaign Analytics ayuda a las organizaciones a medir, optimizar
   </td>
   <td>
     <a href="intro/user-interface-tour.md">
-      <img alt="imagen en miniatura del vídeo &quot;Recorrido por la interfaz de usuario&quot;" src="https://video.tv.adobe.com/v/3452385?captions=spa&format=jpeg" />
+      <img alt="imagen en miniatura del vídeo &quot;Recorrido por la interfaz de usuario&quot;" src="https://video.tv.adobe.com/v/3424851?format=jpeg" />
     </a>
     <div>
       <a href="intro/user-interface-tour.md">
@@ -74,7 +74,7 @@ Adobe Marketing Campaign Analytics ayuda a las organizaciones a medir, optimizar
   </td>
   <td>
     <a href="intro/user-workflow.md">
-      <img alt="imagen en miniatura para el tutorial &quot;Flujo de trabajo de usuario&quot;" src="https://video.tv.adobe.com/v/3440206?captions=spa&format=jpeg" />
+      <img alt="imagen en miniatura para el tutorial &quot;Flujo de trabajo de usuario&quot;" src="https://video.tv.adobe.com/v/3424854?format=jpeg" />
     </a>
     <div>
       <a href="intro/user-workflow.md">

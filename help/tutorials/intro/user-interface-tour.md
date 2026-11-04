@@ -51,19 +51,19 @@ topic_v2:
     internal-label: Insights
   - id: f8667931-f646-4dd3-af2a-b9d0cb8098ad
     internal-label: Taxonomy
-source-git-commit: 9204bd8bbe86d179f4059b292de137b34933b6db
+source-git-commit: d48aefc7040e9ad22f86c87326bceddc09113e67
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '80'
 ht-degree: 0%
 ---
 # Recorrido por la interfaz de usuario
 
 >[!BEGINSHADEBOX]
 
-**Adobe Marketing Campaign Analytics** es la evolución y el cambio de marca de **Adobe Marketing Campaign Analytics**. Es posible que parte del contenido de Experience League siga haciendo referencia a Mix Modeler en lugar de a Marketing Campaign Analytics.
+**Adobe Marketing Campaign Analytics** es la evolución y el cambio de marca de **Adobe Mix Modeler**. Es posible que parte del contenido de Experience League siga haciendo referencia a Mix Modeler en lugar de a Marketing Campaign Analytics.
 
 >[!ENDSHADEBOX]
 
-Consulte las funciones principales de Marketing Campaign Analytics en la interfaz de usuario de. Para obtener más información, consulte la [guía de Adobe Marketing Campaign Analytics](https://experienceleague.adobe.com/es/docs/mix-modeler/using/get-started/workflow).
+Consulte las funciones principales de Marketing Campaign Analytics en la interfaz de usuario de. Para obtener más información, consulte la [guía de Adobe Marketing Campaign Analytics](https://experienceleague.adobe.com/en/docs/mix-modeler/using/get-started/workflow).
 
->[!VIDEO](https://video.tv.adobe.com/v/3452385?captions=spa&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3424851?learn=on&enablevpops)
