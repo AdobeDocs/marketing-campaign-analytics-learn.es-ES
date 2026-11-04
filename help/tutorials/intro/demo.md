@@ -55,16 +55,16 @@ topic_v2:
     internal-label: Machine learning
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
     internal-label: Privacy
-source-git-commit: 9204bd8bbe86d179f4059b292de137b34933b6db
+source-git-commit: d48aefc7040e9ad22f86c87326bceddc09113e67
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '83'
 ht-degree: 9%
 ---
 # Demostración completa de Marketing Campaign Analytics
 
 >[!BEGINSHADEBOX]
 
-**Adobe Marketing Campaign Analytics** es la evolución y el cambio de marca de **Adobe Marketing Campaign Analytics**. Es posible que parte del contenido de Experience League siga haciendo referencia a Mix Modeler en lugar de a Marketing Campaign Analytics.
+**Adobe Marketing Campaign Analytics** es la evolución y el cambio de marca de **Adobe Mix Modeler**. Es posible que parte del contenido de Experience League siga haciendo referencia a Mix Modeler en lugar de a Marketing Campaign Analytics.
 
 >[!ENDSHADEBOX]
 
